@@ -9,3 +9,35 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.trafficlight {
+    background-color: black;
+    border-radius: 10px;
+    width: 120px;
+    padding: 20px;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; */
+}
+
+.lightred{
+    background-color: red;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+
+}
+
+.lightyellow{
+    background-color: yellow;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
+
+.lightgreen{
+    background-color: green;
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+}
